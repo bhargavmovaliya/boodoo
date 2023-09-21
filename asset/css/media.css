@@ -1,0 +1,14 @@
+@media screen and (min-width:1700px) {
+    .container {
+        max-width: 160rem;
+        padding: 0 1rem;
+    }
+}
+@media screen and (max-width:992px){
+
+    .navbar-nav .nav-link {
+        text-align: center;
+        border-bottom: 0.2px solid rgba(255, 255, 255, 0.3);
+        background: linear-gradient(180deg, #000 36.84%, #c8191c 223.16%);
+    }
+}
